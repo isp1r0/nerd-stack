@@ -47,7 +47,7 @@
     "serve-favicon": "~2.3.0",
     "sqlite3": "^3.0.10",
     "superagent": "^1.1.0",
-    "thinky": "~2.1.4",
+    "thinky": "~2.3.9",
     "use-strict": "~1.0.0",
     "uuid": "^2.0.1",
     "when": "^3.7.2",
