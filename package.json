@@ -33,7 +33,7 @@
     "mongoose": "~4.1.0",
     "morgan": "^1.5.2",
     "mysql": "^2.8.0",
-    "nohm": "~0.9.6",
+    "nohm": "~3.0.0",
     "object-assign": "~3.0.0",
     "passport": "~0.2.1",
     "passport-local": "~1.0.0",
