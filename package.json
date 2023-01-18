@@ -46,7 +46,7 @@
     "seraph-model": "^0.7.2",
     "serve-favicon": "~2.3.0",
     "sqlite3": "^3.0.10",
-    "superagent": "^1.1.0",
+    "superagent": "^2.0.0",
     "thinky": "~2.1.4",
     "use-strict": "~1.0.0",
     "uuid": "^2.0.1",
